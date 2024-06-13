@@ -1,0 +1,14 @@
+{
+    "image":"rona.jpg",
+    
+    "api_key":"d807dde2bf8b44468091ac451488f3d3",
+    "api_base_url":"https://newsapi.org/v2/top-headlines?",
+    "api_country":"gb",
+    "terms":"Covid COVID-19 coronavirus covid Coronavirus covid-19",
+    
+    "local_location":"Exeter",
+    "local_location_type":"ltla",
+    
+    "nation_location":"England",
+    "nation_location_type":"nation"
+}
